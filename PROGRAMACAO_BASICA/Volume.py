@@ -1,7 +1,7 @@
 import numpy as np
 
 def Vol(x):
-  Volume =[] 
+  Volume =[]
   for d in x:
     Volume.append(np.pi*d**3/4)
   return Volume
