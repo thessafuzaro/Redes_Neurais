@@ -1,3 +1,5 @@
+import numpy as np
+
 def Vol(x):
   Volume =[] 
   for d in x:
